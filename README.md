@@ -8,7 +8,7 @@ Throughout my career, I’ve had the privilege to work across various industries
   <img src="./screenshot/research-1.jpeg" alt="Research Image 1" width="150"/>
   <img src="./screenshot/research-2.jpeg" alt="Research Image 2" width="150"/>
 </div>
-
+ 
 ## 🌟 **Specializations**
 
 - **Back End:** PHP (Laravel), Java (Spring Boot), Node.js (Express), Ruby, Kotlin

@@ -11,6 +11,16 @@ Throughout my career, I’ve had the privilege to work across various industries
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Docker, GraphQL, RabbitMQ, CI/CD workflows and deployment(GitHub, GitLab, BitBucket), Elastic Search, AWS, Amazon DynamoDB, Amazon S3, AWS EC2, GCP
 
+## Professional Contribution:
+
+- https://www.dotproperty.co.th/
+- https://www.fazwaz.co.th/
+- https://hipflat.co.th/
+- https://popdeal.io/
+- https://www.thailand-property.com/
+- https://www.elf925wholesale.com/
+- https://www.elf925.com/ etc.
+
 ## 🏆 Achievements
 
 - Directors Merit Award (Full Free Scholarship, Metropolitan University, 2010-2014)

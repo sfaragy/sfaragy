@@ -2,7 +2,7 @@
 
 I'm a passionate **Full-Stack Software Engineer** and **Machine Learning / Brain-Computer Interface Researcher** with over 6 years of experience. I thrive on developing innovative solutions and navigating quick learning curves.
 
-Throughout my career, I’ve had the privilege to work across various industries such as **e-commerce**, **tourism**, and **real estate**, where I enjoy aligning my **interests** with company goals while tackling complex challenges. But most of all, I am a passionate coder who loves **open**-source software!\*\*\*\*
+Throughout my career, I’ve had the privilege to work across various industries such as **e-commerce**, **tourism**, and **real estate**, where I enjoy aligning my **interests** with company goals while tackling complex challenges. But most of all, I am a passionate coder in both greenfield project as well as legacy codebase.
 
 <div style="display: inline-flex; gap: 10px;">
   <img src="./screenshot/research-1.jpeg" alt="Research Image 1" width="150"/>

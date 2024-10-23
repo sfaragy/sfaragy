@@ -1,4 +1,4 @@
-# Hi there, I'm MD Soliman Faragy 👋
+# Hi there, I'm Soliman Faragy 👋
 
 I'm a passionate **Full-Stack Software Engineer** and **Machine Learning / Brain-Computer Interface Researcher** with over 6 years of experience. I thrive on developing innovative solutions and navigating quick learning curves.
 

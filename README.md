@@ -1,12 +1,12 @@
 # Hi there, I'm Soliman Faragy 👋
 
-I'm a passionate **Full-Stack Software Engineer** and **Machine Learning / Brain-Computer Interface Researcher** with over 6 years of experience. I thrive on developing innovative solutions and navigating quick learning curves.
+I'm a passionate **Full-Stack Software Engineer** and **Machine Learning / Brain-Computer Interface Researcher** with over 6 years of handson experience building scalable, secure, and high-performance web applications. Specialized in modern tech stacks including Laravel, React.js, Next.js, Node.js, Java (Spring Boot), and AWS/GCP. Adept in microservices architecture, DevOps practices, Agile methodologies, and cloud infrastructure.. I thrive on developing innovative solutions and navigating quick learning curves.
 
 Throughout my career, I’ve had the privilege to work across various industries such as **e-commerce**, **tourism**, and **real estate**, where I enjoy aligning my **interests** with company goals while tackling complex challenges for large scale production grade applications and various workflows. Afterall, I am a passionate coder in both greenfield project as well as legacy codebase.
 
 ## 🌟 **Specializations**
 
-- **Back End:** PHP (Laravel), Java (Spring Boot), Node.js (Express), Ruby, Kotlin
+- **Back End:** PHP (Laravel), Java (Spring Boot), Node.js (Express), Ruby, Kotlin, React.js/Next.js
 - **Front End:** ReactJS, NextJS, JavaScript, TypeScript, Tailwind CSS, CSS, BEM,
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Docker, GraphQL, RabbitMQ, CI/CD workflows and deployment(GitHub, GitLab, BitBucket), Elastic Search, AWS, Amazon DynamoDB, Amazon S3, AWS EC2, GCP

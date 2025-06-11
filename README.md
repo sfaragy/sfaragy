@@ -1,23 +1,31 @@
 # Hi there, I'm Soliman Faragy 👋
 
-I'm a passionate **Full-Stack Software Engineer** with over 6 years of hands on experience building scalable, secure, and high-performance web applications. But contributed past 15 years total in this industry. Specialized in modern tech stacks including Laravel, React.js, Next.js, Node.js, Java (Spring Boot), and AWS/GCP. Adept in microservices architecture, DevOps practices, Agile methodologies, and cloud infrastructure.. I thrive on developing innovative solutions and navigating quick learning curves.
-
-Throughout my career, I’ve had the privilege to work across various industries such as **e-commerce**, **tourism**, and **real estate**, where I enjoy aligning my **interests** with company goals while tackling complex challenges for large scale production grade applications and various workflows. Afterall, I am a passionate coder in both greenfield project as well as legacy codebase.
+Accomplished Lead Software Engineer with over 10 years of experience delivering scalable, secure, and high-performance E-Commerce platforms across B2B and B2C markets. Proven track record of leading engineering teams, modernizing monolithic systems, and deploying modular microservices with CI/CD automation. Deep expertise in Laravel, React, Node.js, and cloud-native environments (AWS/GCP). Adept at bridging business needs with technical execution to accelerate growth and streamline user experience. Passionate about mentoring developers, improving team efficiency, and solving complex system design challenges. Looking to bring these skills into a hands-on Team Lead role focused on PHP, Laravel, React.js, and E-Commerce.
 
 ## 🌟 **Specializations**
+    • Programming Languages: PHP, JavaScript, TypeScript, Java, Kotlin, Python, Ruby, C, C++, SQL
+    • Frontend Frameworks: React.js, Next.js, Tailwind CSS, Bootstrap
+    • Backend & Frameworks: Laravel, Node.js, Express.js, Spring Boot, Django, RESTful API, GraphQL
+    • Databases: MySQL, PostgreSQL, MongoDB, Redis, SQLite, Firebase Realtime Database
+    • Cloud & DevOps: AWS (EC2, S3, RDS, Lambda), GCP (App Engine, Cloud Functions), Docker, Kubernetes, GitLab CI/CD, GitHub Actions, DigitalOcean, NGINX 
+    • Microservices & Architecture: Microservices Architecture, Monolith to Microservices Migration, Domain-Driven Design (DDD), Event-Driven Architecture
+    • Testing & Quality Assurance: TDD, BDD, PHPUnit, Jest, Cypress, Selenium, Postman
+    • Security & Performance: OWASP Top 10, JWT Auth, OAuth2, SSL/TLS, SQL Injection Prevention, XSS/CSRF Protection, WebSockets Security
+    • Monitoring & Logging: Kibana, Grafana, New Relic, Prometheus, Google Analytics
+    • CI/CD & Automation: GitOps, DevSecOps, CI/CD Pipelines, Docker Compose, Shell Scripting
+    • Project & Agile Tools: Jira, Confluence, Slack, Agile/Scrum, Kanban, Trello, Notion
+    • Collaboration & Version Control: Git, GitHub, GitLab, Bitbucket, Code Reviews
+    • Machine Learning: OpenCV, PCA, KMeans, Image Classification, Mini Conda, Jupyter Notebook
 
-- **Back End:** PHP (Laravel), Java (Spring Boot), Node.js (Express), Ruby, Kotlin, React.js/Next.js
-- **Front End:** ReactJS, NextJS, JavaScript, TypeScript, Tailwind CSS, CSS, BEM,
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Docker, GraphQL, RabbitMQ, CI/CD workflows and deployment(GitHub, GitLab, BitBucket), Elastic Search, AWS, Amazon DynamoDB, Amazon S3, AWS EC2, GCP
-
-## Professional Contribution:
+## Professional Contribution on E-Commerce Platforms:
 
 - https://www.dotproperty.co.th/
 - https://www.fazwaz.co.th/
 - https://hipflat.co.th/
 - https://popdeal.io/
 - https://www.thailand-property.com/
+- https://thaimedics.com/
+- https://thailandelitevisa.com/
 - https://www.elf925wholesale.com/
 - https://www.elf925.com/ etc.
 
@@ -28,7 +36,7 @@ Throughout my career, I’ve had the privilege to work across various industries
 
 ## 📚 Research
 
-I'm currently researching Brain-Computer Interfaces (BCI) using machine learning methodologies, focusing on classifying silent speech from brain activity.
+Researching Brain-Computer Interfaces (BCI) using machine learning methodologies, focusing on classifying silent speech from brain activity.
 
 ## 🌟 Projects
 
